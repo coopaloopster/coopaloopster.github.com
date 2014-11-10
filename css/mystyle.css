@@ -1,0 +1,19 @@
+html{
+    height:100%;
+}
+.container-middle { display:table-cell; vertical-align: middle; text-align: center; }
+
+body {
+    display: table;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.rightbutton { }
+.topbutton { }
+.bottombutton { }
+
+.hide { display:none; }
+.show { display:block; }
+
